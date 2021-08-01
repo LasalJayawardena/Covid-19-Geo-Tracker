@@ -2,6 +2,10 @@
 
 ## Technologies
 
+<div style="display:flex; margin: auto;">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
 ## Functionalities
 
 - Shows Live Cases, Recoveries, Deaths (clickable tabs)
