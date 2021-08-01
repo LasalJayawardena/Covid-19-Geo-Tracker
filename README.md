@@ -9,4 +9,4 @@ Functionalities:
 
 
 ## Tracker Image
-<img src="">
+<img src="Covid_Geo_Tracker.PNG">
