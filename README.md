@@ -1,6 +1,8 @@
 # Covid-19 Geo Tracker App
 
-Functionalities:
+## Technologies
+
+## Functionalities
 
 - Shows Live Cases, Recoveries, Deaths (clickable tabs)
 - Shows Worldwide cases and Country Based cases
